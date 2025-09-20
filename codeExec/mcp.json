@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "codeexec": {
+      "command": "C:\\Users\\parra\\.local\\bin\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\parra\\OneDrive\\Desktop\\codeExec\\main.py"
+      ]
+    }
+  }
+}
