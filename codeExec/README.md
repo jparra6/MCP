@@ -45,14 +45,12 @@ Given the lastest python installation (3.13.7), run the following command provid
 ´´´sh
 pip install "mcp[cli]"
 ´´´ 
-or alternatively be sure you download the requirements.txt like so:
+or alternatively download the packages on requirements.txt
 
-´´´sh
-pip install "mcp[cli]"
-´´´
 
 ## General information
 
 For general information regarding the python SDK and the MCP in general, follow these links:
 1) https://modelcontextprotocol.io/docs/getting-started/intro
+
 2) https://github.com/modelcontextprotocol/python-sdk?tab=readme-ov-file#installation
