@@ -42,9 +42,10 @@ Any MCP should be added inside the big mcpServers object (featuring the command,
 ## Downloading the necessary requirements (windows) - just in case:
 Given the lastest python installation (3.13.7), run the following command provided in the official MCP Python SDK:
 
-´´´sh
+```sh
 pip install "mcp[cli]"
-´´´ 
+```
+
 or alternatively download the packages on requirements.txt
 
 
@@ -54,3 +55,4 @@ For general information regarding the python SDK and the MCP in general, follow 
 1) https://modelcontextprotocol.io/docs/getting-started/intro
 
 2) https://github.com/modelcontextprotocol/python-sdk?tab=readme-ov-file#installation
+
